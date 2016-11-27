@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  My name is Juli Odomo and I study mathematics.</p>
+  My name is Juli Odomo and I make memes.</p>
 
 Social Media:
 
