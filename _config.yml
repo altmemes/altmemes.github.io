@@ -1,0 +1,33 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:		alt memes
+tagline:	memes 4r alts
+url:		https://altmemes.github.io/
+paginate:            5
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Juli Odomo
+  url:               https://twitter.com/odomojuli
+  email:             odomo.juli@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/altmemes/altmemes.github.io
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  
+markdown: kramdown
